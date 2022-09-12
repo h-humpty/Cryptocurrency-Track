@@ -9,9 +9,6 @@ A Cryptocurrency Tracker which built with React JS, Material UI and Chart JS. Yo
 ## Home page
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/78966839/160291138-cb09a914-535a-4003-ad14-e0370eff6bcd.png">
 
-## After login
-
-<img width="945" alt="image" src="https://user-images.githubusercontent.com/78966839/160291196-3edae5fa-a548-406b-8685-335c61617d98.png">
 
 ## In side firebase
 
